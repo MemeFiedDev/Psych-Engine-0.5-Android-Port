@@ -67,7 +67,7 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['VS MemeFied v1.0'],
-			['MemeExe',		    'MemeExeIcon',		    'Main Coder of Vs Memefief',	 'https://youtube.com/channel/UC-e0aNSqmoZiw5TLdDwNDDQ',	    'F73838'],
+			['MemeExe',		    'MemeExeIcon',		    'Main Programmer of Vs MemeFied',	 'https://youtube.com/channel/UC-e0aNSqmoZiw5TLdDwNDDQ',	    'F73838'],
 			['LegemdaryMLG',		        'MLGIcon',		    'Beta tester',	                 'https://youtube.com/channel/UC6ET-jj4joPm18RIkWZzg2Q',	   
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',						'https://twitter.com/Shadow_Mario_',	'FFDD33'],
